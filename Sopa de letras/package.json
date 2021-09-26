@@ -1,0 +1,15 @@
+{
+  "name": "sopa-de-letras",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon index.js"
+  },
+  "author": "Nelson Caicedo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.2"
+  }
+}
