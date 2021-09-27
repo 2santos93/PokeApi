@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family:'Courier New', Courier, monospace;
+}
+
+button{
+  background: linear-gradient(to bottom, red, black, white);
+  border: none;
+  border-radius: 30px;
+  color:white;
+  cursor: pointer;
+  font-size: 5px;
+  height: 40px;
+  margin-left: 10px;
+  width: 40px;
+  margin: 5px;
+}
+
+button:hover {
+  outline: 2px solid #ffcc01;
+  outline-offset: 1px;
+}
+
+button:active {
+  outline: 2px solid #2576bc;
+  outline-offset: 1px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}

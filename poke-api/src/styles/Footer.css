@@ -1,0 +1,10 @@
+.footer__content {
+  width: 100%;
+  height: 5vh;
+  background: linear-gradient(to left, #2576bc, black, #ffcc01);
+  display: grid;
+  grid-template-columns: 50% 50%;
+  align-items: center;
+  color: white;
+  text-align: center;
+}
